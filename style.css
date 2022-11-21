@@ -75,7 +75,8 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: white;
-  text-align: left;
+  t
+  ext-align: left;
   background-color: #fff;
   background-image:url(https://images.pexels.com/photos/317974/pexels-photo-317974.jpeg?cs=srgb&dl=coding-computers-laptop-macbook-317974.jpg&fm=jpg);
   background-size: cover;
@@ -172,7 +173,7 @@ sup {
 }
 
 a {
-  color: #F85C70;
+  color: white;
   text-decoration: none;
   background-color: transparent;
 }
@@ -11692,5 +11693,5 @@ pre .code {
   display: block;
   margin-top: 10px;
 }
-}
+
 
