@@ -56,6 +56,9 @@ body {
   color: #ffffff;
   text-align: left;
   background-color: #fff;
+  background-image:url(https://images.pexels.com/photos/317974/pexels-photo-317974.jpeg?cs=srgb&dl=coding-computers-laptop-macbook-317974.jpg&fm=jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 [tabindex="-1"]:focus {
